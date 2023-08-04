@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    background: linear-gradient(100deg, #00feba, blue );
+}
+.card {
+    width: 90%;
+    max-width: 470px;
+    background: linear-gradient(135deg, #00feba, blue );
+    color: white;
+    margin: 50px auto 0;
+    border-radius: 20px;
+    padding: 20px 35px;
+    text-align: center;
+} 
+.details {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.weather img {
+    width: 100px;
+    height: 100px;
+}
